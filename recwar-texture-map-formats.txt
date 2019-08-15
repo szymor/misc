@@ -1,0 +1,27 @@
+TextureList.txt format:
+one line (CR+LF or CR) - one entry
+	entry format:
+	<bmp_file_name_without_extension> <type> <friction> <acceleration>
+		<type> values:
+		0 - normal terrain, i.e. grass
+		1 - spawn point
+		2 - obstacle, i.e. bunker
+		3 - water terrain (additional animation)
+		4 - snow terrain (mine colour changed)
+		effective_acceleration = acceleration - friction * current_speed
+		maximum speed is proportional to acceleration / friction (effective_acceleration is zero then)
+		inertness for the same maximum speed is higher for lower values of acceleration and friction (0.5 / 0.5 is more inert than 1 / 1)
+		<friction> coefficient in [1/s]
+		<acceleration> in [u/s^2], where 1u is approx. 3 tiles
+		angular types of movement are also affected by these parameters, it can be assumed that one revolution lasts as long as moving by ten tiles
+
+Map format:
+File contains "width * height" 8-bit numbers. One line (CR+LF or CR) describes one row of the map. The dimensions are recognized by counting numbers in the first line. If the first line contains N numbers, the rest of them is used in such a way to create N-long rows. If there are few numbers to complete a row, the first (0) texture with the "right" (0) orientation is used to fill the rest of them.
+number format:
+	7-2 bits - number of texture (max 63)
+	1-0 bits - orientation
+		0 - right
+		1 - up
+		2 - left
+		3 - down
+Orientation is used to position a tile, it is also used to spawn a vehicle.

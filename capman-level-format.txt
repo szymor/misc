@@ -1,0 +1,43 @@
+CAPMAN LEVEL FORMAT (612 bytes):
+	504 (21 x 24) bytes - level data (empty tiles, walls, mines)
+		1 byte per tile
+		every row (21 tiles) lies one after another in a file - level data is grouped by rows
+		byte values have following values:
+			00 empty tile (no capsule)
+			01 upper left corner wall
+			02 horizontal wall
+			03 upper right corner wall
+			04 vertical wall
+			05 lower right wall
+			06 lower left wall
+			07 upper wall
+			08 right wall
+			09 lower wall
+			0A left wall
+			0B upside-down T wall
+			0C |- wall
+			0D T wall
+			0E -| wall
+			0F + wall
+			10 tile with a capsule
+			11 tile with a weird black thing (wall-like tile)
+			12 tile with a weird red thing (wall-like tile)
+			14 tile with a mine
+			other values are pitch black tiles which work like a wall
+	72 bytes - position of players, bug startpoint, bonuses
+		position numbers are 32-bit (probably unsigned) little-endian integers, X position as first, Y position as second:
+			player 1
+			player 2
+			player 3
+			player 4
+			bug startpoint
+			bonus point 1
+			bonus point 2
+			bonus point 3
+			bonus point 4
+		player and bonus point positions should not contain X or Y coordinate equal 0 - it causes that such a player or bonus is invisible, the player cannot play and the bonus cannot be caught, this bug (or feature) could be used to make a level for a certain number of players or to set up fewer bonus points
+	3 bytes - amount of bugs - overall amount of bugs MUST NOT be greater than 24 - otherwise the game will crash, probably somewhere in the game code there is a static array with 24 bug objects (or sth similar)
+		first byte - amount of red bugs
+		second byte - amount of yellow bugs
+		third byte - amount of blue bugs
+	33 bytes - title of the level - ASCII characters only, it does not need to be null terminated (but it can be), the title should be not longer than 30 characters - longer strings are displayed out of frame
