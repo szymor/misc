@@ -1,0 +1,647 @@
+
+
+
+               -------------------------------------------
+                     T a o   P r o g r a m o w a n i a 
+               -------------------------------------------
+
+                            autor nieznany
+
+                       T r a n s l a t e d   B y
+                      G e o f f r e y   J a m e s
+
+                       Przeklad na jezyk polski
+ 
+                                EDWART 
+
+
+
+
+                   ---------------------------------
+                        S p i s   T r e s c i            
+                   ---------------------------------
+
+
+                  Ksiega  1   --  Milczaca Pustka 
+
+                  Ksiega  2   --  Starozytni Mistrzowie 
+
+                  Ksiega  3   --  Projekt 
+
+                  Ksiega  4   --  Kodowanie 
+
+                  Ksiega  5   --  Obsluga
+
+                  Ksiega  6   --  Zarzadzanie 
+
+                  Ksiega  7   --  Korporacyjna Madrosc 
+
+                  Ksiega  8   --  Sprzet i Oprogramowanie 
+
+                  Ksiega  9   --  Epilog 
+
+
+
+                     M i l c z a c a   P u s t k a
+                     K s i e g a   P i e r w s z a 
+-----------------------------------------------------------------------
+                      Oto rzekl Mistrz Programista:
+
+ "Gdy nauczysz sie odczytywac z trapu kod bledu, bedzie to znak,
+  ze mozesz odejsc."
+-----------------------------------------------------------------------
+
+                                  1.1
+
+ Cos tajemniczego sie uformowalo, narodzone w milczacej pustce. Czekajac
+ samotnie w bezruchu, jest naraz nieruchome i zmienne. Ono jest zrodlem
+ wszystkich programow. Nie znam jego imienia, wiec bede je nazywal 
+ Tao Programowania. 
+
+ Jezeli Tao jest dobre, to i system operacyjny jest dobry. Jezeli system
+ operacyjny jest dobry, to i kompilator jest dobry. Jezeli kompilator
+ jest dobry to i aplikacja jest dobra. Uzytkownik jest zadowolony i na
+ swiecie panuje harmonia.
+
+ Zas Tao Programowania odlatuje daleko i wraca wraz z wiatrem poranka.
+
+                                  1.2
+
+ Tao zrodzilo kod maszynowy. Kod maszynowy zrodzil assembler. 
+
+ Assembler zrodzil kompilator. Obecnie jest dziesiec tysiecy jezykow.
+
+ Kazdy jezyk ma swoja sile, jak i slabosc. Kazdy jezyk wyraza Jin i Jang
+ oprogramowania. Kazdy jezyk ma swoje miejsce w Tao.
+
+ Lecz nie pisz w COBOLu, jezeli tylko mozesz tego uniknac.
+
+                                  1.3
+
+ Na poczatku bylo Tao. Tao zrodzilo Czas i Przestrzen. 
+ Zatem Czas i Przestrzen sa Jin i Jang programowania.
+
+ Programistom, ktorzy nie pojeli Tao, zawsze brakuje czasu i przestrze-
+ ni dla ich programow. Programisci rozumiejacy Tao zawsze maja dosc
+ czasu i przestrzeni by osiagnac swoje zalozenia. 
+
+ Jak mogloby byc inaczej?
+
+                                  1.4
+
+ Madremu programiscie powiedziano o Tao i ten wedlug niego postepuje.
+ Sredniemu programiscie powiedziano i Tao i ten go poszukuje.
+ Glupiemu programiscie powiedziano o Tao i ten sie z niego smieje.
+
+ Lecz gdyby nie bylo smiechu, nie byloby i Tao.
+ 
+ Najwyzsze tony najtrudniej uslyszec. Odchodzi sie idac naprzod.
+ Wielki talent dlugo pozostaje niedostrzezony. Najdoskonalszy program
+ ma bledy.
+
+
+
+                S t a r o z y t n i   M i s t r z o w i e
+                           K s i e g a   D r u g a 
+-----------------------------------------------------------------------
+                      Oto rzekl Mistrz Programista:
+
+ "Po trzech dniach bez programowania, zycie staje sie pozbawione sensu"
+-----------------------------------------------------------------------
+
+                                  2.1
+
+ Programisci dawnych czasow byli tajemniczy i niezglebieni. Nie mozemy
+ odgadnac ich mysli, zatem jedyne co mozemy zrobic to opisac ich wyglad.
+
+ Ostrozni, jak lis przekraczajacy rzeke. Gotowi, jak general na polu
+ walki. Delikatni, jak hostessa zapraszajaca gosci. Prosci, jak nie-
+ obrobiony blok drewna. Nieprzeniknieni, jak czarne jeziora w ciemnych
+ jaskiniach.
+
+ Ktoz moglby poznac sekrety ich serc i umyslow?
+
+ Tylko w Tao istnieje odpowiedz.
+
+                                  2.2
+
+ Wielkiemu Mistrzowi Turingowi snilo sie raz, ze jest maszyna. Gdy sie
+ obudzil, oswiadczyl:
+
+      "Nie wiem, czy jestem Turingiem sniacym, ze jest maszyna,
+       czy maszyna sniaca, ze jest Turingiem!."
+
+                                  2.3
+
+ Pewien programista z duzej firmy komputerowej poszedl na narade
+ programistow, a potem wrocil do swojego szefa mowiac: "Jacy dziwni
+ programisci pracuja dla innych firm? Zachowywali sie okropnie i
+ w ogole nie dbali o swoj wyglad. Ich wlosy byly dlugie i zaniedbane,
+ ubrania stare i wymiete. W ogole nie uszanowali naszej goscinnosci
+ i do tego wydawali brzydkie dzwieki w czasie mojej prezentacji."
+
+ Szef powiedzial:
+
+ "Nigdy nie powinienem cie wysylac na narade. Ci programisci zyja
+ poza fizycznym swiatem. Zycie uwazaja za absurd, przypadkowy zbieg
+ okolicznosci. Przychodza i odchodza nie majac pojecia o ogranicze-
+ niach. Bez szacunku, zyja wylacznie dla swoich programow. Dlaczego
+ mialy by ich obchodzic konwenanse?
+
+ Zaprawde, oni zyja w Tao."
+
+                                  2.4
+
+ I uczen zapytal Mistrza: "Oto jest programista, ktory nigdy nie
+ projektuje, nie dokumentuje ani nie testuje swoich programow. 
+ Mimo to kazdy kto go zna, uwaza go za najlepszego programiste 
+ na swiecie. Dlaczego tak jest?"
+
+ Mistrz odpowiedzial: "Ten programista poznal Tao. On uniosl sie
+ ponad potrzebe projektowania; nie gniewa sie gdy system wysiada,
+ lecz odbiera rzeczywistosc nie oceniajac. On uniosl sie ponad
+ potrzebe dokumentowania; nie dba czy ktokolwiek bedzie ogladal
+ jego kod. On uniosl sie ponad potrzebe testowania; kazdy z jego
+ programow jest doskonaloscia sama w sobie, piekny i elegancki,
+ a jego funkcje sa oczywiste. Zaprawde, on poznal tajemnice Tao."
+
+
+
+                             P r o j e k t
+                     K s i e g a   T r z e c i a
+-----------------------------------------------------------------------
+                     Oto rzekl Mistrz Programista:
+
+     "Gdy program jest testowany, jest juz zbyt pozno 
+      na zmiany w projekcie."
+-----------------------------------------------------------------------
+
+                                  3.1
+
+ Byl raz czlowiek, ktory poszedl na targi komputerowe. Kazdego dnia
+ gdy wchodzil, mowil do straznika przy drzwiach:
+
+       "Jestem wielkim zlodziejem, chelpiacym sie osiagnieciami
+        w dziedzinie kradziezy sklepowych. Badz ostrzezony, z tych 
+        targow nie zamierzam wyjsc bez lupu."
+
+ Taka mowa bardzo zdenerwowala straznika, gdyz na wystawie zgromadzono
+ sprzet wart miliony dolarow, wiec obserwowal tego czlowieka uwaznie.
+ Lecz czlowiek tylko chodzil od stoiska do stoiska, mamroczac cos cicho
+ do siebie.
+
+ Gdy czlowiek wyszedl, straznik wzial go na strone i dokladnie przeszukal,
+ ale nic nie znalazl. 
+
+ Nastepnego dnia targow, czlowiek wrocil i skarcil straznika mowiac:
+ "Wczoraj zgarnalem piekny fancik. Ale dzis bedzie jeszcze lepiej!"
+ Wiec straznik obserwowal go jeszcze uwazniej, ale bez skutku.
+
+ Ostatniego dnia targow straznik nie potrafil juz dluzej powstrzymywac
+ swojej ciekawosci. Podszedl do czlowieka i zapytal: "Panie Zlodzieju,
+ jestem tak zdumiony, ze juz nie moge zyc w spokoju. Prosze mnie
+ oswiecic. Co pan kradnie?" 
+ 
+ Czlowiek sie usmiechnal. "Ja kradne pomysly."
+
+                                  3.2
+
+ Byl raz programista, ktory pisal niestrukturalne programy. Nowicjusz,
+ probujacy go nasladowac, takze zaczal pisac niestrukturalne programy.
+ Gdy nowicjusz poprosil mistrza o ocene postepow, mistrz skarcil go
+ za pisanie niestrukturalnych programow, mowiac: "Co jest odpowiednie
+ dla mistrza, nie jest odpowiednie dla ucznia. Musisz zrozumiec
+ Tao zanim przenikniesz strukture."
+
+                                  3.3
+
+ Pewien programista sluzyl na dworze Lorda Wu. Raz Lord zapytal programiste:
+
+ "Co jest latwiej zaprojektowac: system finansowo-ksiegowy czy system opera-
+ cyjny?"
+
+ "System operacyjny," odpowiedzial programista.
+
+ Lord wyrazil niedowierzanie. "Z pewnoscia system finansowo-ksiegowy jest
+ trywialnie prosty w porownaniu do systemu operacyjnego," powiedzial.
+
+ "Niezupelnie," odpowiedzial programista. "Projektujac system finansowo-
+ -ksiegowy, programista dziala jako mediator pomiedzy ludzmi majacymi
+ rozne pomysly: jak to musi dzialac, jak maja wygladac raporty i jak to
+ ma spelniac wymogi prawa podatkowego. Dla kontrastu, system operacyjny
+ nie jest ograniczany przez przez czynniki zewnetrzne. Projektujac system
+ operacyjny, programista szuka najprostszej harmonii pomiedzy maszyna a
+ pomyslem. Dlatego system operacyjny jest latwiej zaprojektowac."
+
+ Wladca Wu skinal glowa i usmiechnal sie. "Wszystko pieknie i ladnie, lecz
+ ktory z tych systemow latwiej zdebugowac?"
+
+ Programista nie odpowiedzial.
+
+                                  3.4
+
+ Do mistrza programisty przyszedl menadzer i pokazal zalozenia techniczne
+ na nowa aplikacje. Szef zapytal mistrza: "Ile czasu zajmie zaprojektowa-
+ nie tego systemu gdy przydziele do tego pieciu programistow?"
+
+ "To zajmie jeden rok," natychmiast odpowiedzial mistrz.
+
+ "Ale my potrzebujemy ten system natychmiast, albo i jeszcze szybciej!
+ Ile to potrwa, gdy przydziele dziesieciu programistow do projektu?"
+
+ Mistrz skrzywil sie. "W tym wypadku, to potrwa dwa lata."
+
+ "A gdy przydziele stu programistow?!"
+
+ Mistrz programista wzruszyl ramionami. "Wtedy ten projekt nigdy nie zos-
+ tanie ukonczony."
+
+
+
+                           K o d o w a n i e
+                     K s i e g a   C z w a r t a 
+-----------------------------------------------------------------------
+                      Oto rzekl Mistrz Programista
+
+     "Dobrze napisany program jest we wlasnym niebie. Zle napisany
+      program jest we wlasnym piekle."
+-----------------------------------------------------------------------
+
+                                  4.1
+
+ Program powinien byc lekki i zwinny, jego procedury polaczone jak
+ sznur perel. Przeznaczenie i duch programu powinny wypelniac cala
+ jego istote. Nie powinno w nim byc niczego za malo ani niczego
+ za duzo, zadnych niepotrzebnych petli ani bezuzytecznych zmiennych.
+ Powinien byc strukturalny, ale bez nadmiernej sztywnosci. 
+
+ Program powinien dzialac wedlug "Zasady Minimalnego Zdziwienia". Na
+ czym polega ta zasada? Po prostu na tym, ze program powinien reagowac
+ na dzialania uzytkownika w sposob jaki najmniej go zdziwi. 
+
+ Program, niewazne jak skomplikowany, powinien sie zachowywac jak
+ jednorodna calosc. Powinien sie kierowac logika raczej, niz czynnikami
+ zewnetrznymi.
+
+ Jezeli program nie bedzie spelnial tych wymagan, bedzie pelen nieporzadku
+ i zagmatwania. Jedynym sposobem na skorygowanie tego stanu bedzie 
+ przepisanie programu od poczatku. 
+
+                                  4.2
+
+ Nowicjusz zapytal mistrza: "Mam program, ktory czasem dziala a czasem
+ nie. Kierowalem sie wszelkimi zasadami programowania, ale nie pomoglo.
+ Jestem kompletnie bezradny. Dlaczego tak sie dzieje?"
+
+ Mistrz odpowiedzial: "Jestes bezradny, bo nie rozumiesz Tao. Tylko
+ glupiec moze oczekiwac racjonalnego zachowania od innych ludzi.
+ Czemu oczekujesz go od maszyny skonstruowanej przez nich? 
+ Komputery symuluja determinizm; tylko Tao jest doskonale.
+
+ Reguly programowania sa ulotne; tylko Tao jest wieczne. Musisz zatem
+ poznac Tao zanim doznasz oswiecenia."
+
+ "Mistrzu, a po czym poznam, ze juz osiagnalem oswiecenie?" zapytal nowicjusz.
+
+ "Twoj program bedzie dzialal."
+
+                                  4.3
+
+ Mistrz wyjasnial nature Tao jednemu ze swoich uczniow. "Tao jest
+ w kazdym oprogramowaniu - nawet najmniej istotnym," powiedzial.
+
+ "Czy Tao jest w kalkulatorze?" zapytal uczen.
+
+ "Tak," brzmiala odpowiedz.
+
+ "Czy Tao jest w grze telewizyjnej?" ciagnal uczen. 
+
+ "Jest nawet w grze telewizyjnej," odpowiedzial mistrz.
+
+ "A czy Tao jest w systemie DOS na PC?"
+
+ Mistrz zakaszlal i nieznacznie sie poruszyl mowiac: "Na dzisiaj lekcja 
+ skonczona."
+
+                                  4.4
+
+ Programista Ksiecia Wang kodowal program. Jego palce tanczyly po 
+ klawiaturze. Program skompilowal sie bez jednego komunikatu o bledzie,
+ a potem dzialal jak delikatny zefirek.
+
+ "Wysmienicie!" wykrzyknal Ksiaze. "Twa technika jest bezbledna!"
+
+ "Technika?" powiedzial programista odwracajac sie od terminala.
+ "Ja postepuje wedlug Tao - ponad wszelkie techniki! Gdy zaczynalem
+ programowac, widzialem program jako jeden wielki balagan. Po trzech latach
+ nie widzialem juz balaganu, tylko procedury. Teraz nic nie widze. Cale moje
+ jestestwo zanurza sie w pozbawionej formy pustce. Moje zmysly sa bezczynne.
+ Moj duch, uwolniony do pracy wedlug planu, kieruje sie wlasnym
+ instynktem. Krotko mowiac, moj program sam sie pisze. Owszem, zdarzaja
+ sie trudniejsze problemy. Widze jak nadchodza, zwalniam i patrze 
+ w milczeniu. Potem zmieniam jedna linijke kodu i trudnosci znikaja jak
+ obloczek dymu. Wreszcie kompiluje program. Siedze nieruchomo i pozwalam,
+ by przyjemnosc pracy wypelnila moje wnetrze. Zamykam oczy na moment
+ i wylogowuje sie.
+
+ Ksiaze Wang powiedzial: "Oby wszyscy moi programisci byli tak roztropni!"
+
+
+
+                              O b s l u g a        
+                         K s i e g a   p i a t a
+-----------------------------------------------------------------------
+                   Oto rzekl Mistrz Programista:
+
+     "Kazdy program majacy wiecej niz trzy linijki bedzie kiedys
+      musial byc konserwowany."
+-----------------------------------------------------------------------
+
+                                  5.1
+
+ Dobrze uzywanie drzwi nie potrzebuja oleju do zawiasow.
+ Rwacy potok nie zarasta.
+ Dzwiek ani mysl nie moze sie poruszac w prozni.
+ Nie uzywane programy butwieja.
+
+ To sa wielkie tajemnice.
+
+                                  5.2
+
+ Menadzer zapytal programiste, ile czasu zajmie mu ukonczenie programu,
+ nad ktorym pracuje. "Skoncze go jutro," natychmiast odpowiedzial programista.
+
+ "Ten termin wydaje mi sie nierealny," powiedzial menadzer. "Tak szczerze,
+ ile to potrwa?".
+
+ Programista chwile pomyslal. "Chce dodac kilka funkcji. Mysle, ze to zajmie
+ co najmniej dwa tygodnie."
+
+ Menadzer upieral sie. "Nawet to wydaje mi sie niemozliwe. No coz, bede
+ zadowolony, gdy po prostu powiadomi mnie pan, gdy juz wszystko bedzie 
+ skonczone."
+
+ Programista sie zgodzil.
+
+ Kilka lat pozniej menadzer odchodzil na emeryture. W drodze na pozegnalny
+ obiad zauwazyl programiste spiacego przy swoim terminalu. Pisal cala noc. 
+
+                                  5.3
+
+ Polecono raz mlodemu programiscie zakodowanie prostego pakietu finansowego.
+
+ Programista pracowal wsciekle przez kilka dni, lecz gdy mistrz obejrzal
+ jego program, odkryl, ze zawiera tylko edytor ekranowy, zestaw ogolnych
+ procedur graficznych, interfejs dla sztucznej inteligencji, lecz najmniej-
+ szego fragmentu dotyczacego finansow.
+
+ Gdy mistrz zapytal sie o to, nowicjusz zrobil sie opryskliwy.
+ "Prosze sie tak nie niecierpliwic. Dodam te finanse na koncu."
+
+                                  5.4
+
+ Czy dobry rolnik zostawi plon, ktory uprawial?
+ Czy dobry nauczyciel przeoczy najskromniejszego ucznia?
+ Czy ojciec pozwoli by jego dzieci glodowaly?
+ Czy programista odmowi konserwacji swojego programu?
+
+
+
+                        Z a r z a d z a n i e
+                      K s i e g a   s z o s t a
+-----------------------------------------------------------------------
+                     Oto rzekl Mistrz Programista:      
+
+     "Niech bedzie wielu programistow i malo menadzerow - wtedy 
+     wszyscy beda produktywni".
+-----------------------------------------------------------------------
+
+                                  6.1
+
+ Gdy menadzerowie odbywaja niekonczace sie konsultacje, programisci
+ pisza gry. Gdy ksiegowi mowia o zyskach kwartalnych, budzet rozwojowy
+ jest bliski obciecia. Gdy uczeni mowia o blekitnym niebie, chmury
+ juz czaja sie za horyzontem.
+
+ Zaprawde, nie jest to Tao Programowania.
+
+ Gdy menadzerowie osiagaja porozumienie, gry sa ignorowane. Gdy 
+ ksiegowi snuja dalekosiezne plany, harmonia i porzadek bliskie sa
+ powrotu. Gdy uczeni z miejsca wskazuja problemy, rychlo beda one
+ rozwiazane. 
+
+ Zaprawde, to jest wlasnie Tao Programowania.
+
+                                  6.2
+
+ Dlaczego programisci sa nieproduktywni? Poniewaz ich czas jest
+ tracony na spotkaniach.
+
+ Dlaczego programisci sa tak buntowniczy? Bo menadzerowie
+ za bardzo sie wtracaja.
+
+ Dlaczego programisci zwalniaja sie jeden po drugim? Bo sie wypalaja.
+
+ Pracujac pod kiepskim zarzadem, juz nie cenia swej pracy.
+
+                                  6.3
+
+ Menadzer mial byc zwolniony, ale programista pracujacy dla
+ niego wymyslil program, ktory stal sie popularny i swietnie sie
+ sprzedawal. W rezultacie menadzer zachowal swoja prace.
+
+ Menadzer probowal dac programiscie premie, lecz programista odmowil
+ mowiac "Napisalem ten program dla sprawdzenia koncepcji i dlatego
+ nie oczekuje nagrody".
+
+ Menadzer, gdy to uslyszal, zauwazyl: "Ten programista, choc nisko
+ sie ceni, dobrze rozumie obowiazki pracownika. Awansujmy go
+ na stanowisko konsultanta!"
+ 
+ Lecz gdy to powiedzial, programista ponownie odmowil, mowiac: 
+ "Programuje, wiec jestem. Gdybym zostal awansowany, nie robil
+ bym nic innego poza marnowaniem cudzego czasu. Czy moge juz odejsc?
+ Mam program, nad ktorym wlasnie pracuje."
+
+                                  6.4
+
+ Menadzer poszedl do swoich programistow i im powiedzial: 
+ "Jesli chodzi o wasze godziny pracy, to macie przychodzic o 9:00
+ a wychodzic o 17:00." Wszyscy programisci sie zdenerwowali a
+ kilku z miejsca zlozylo rezygnacje.
+
+ Wiec menadzer powiedzial: "Dobrze, w takim razie mozecie ustanowic
+ wlasne godziny pracy, pod warunkiem, ze wszystkie projekty beda
+ konczone w terminie." Zadowoleni programisci zaczeli
+ przychodzic do pracy w poludnie i pracowac do bladego switu. 
+
+
+
+                 K o r p o r a c y j n a   M a d r o s c
+                        K s i e g a   S i o d m a
+-----------------------------------------------------------------------
+                   Oto rzekl Mistrz Programista:
+
+     "Mozecie pokazac program prezesowi firmy, ale nie sprawicie,
+      ze bedzie sie znal na komputerach".
+-----------------------------------------------------------------------
+
+                                  7.1
+
+ Uczen zapytal mistrza: "Tam gdzie wschodzi slonce jest taka wielka
+ drzewiasta struktura, ktora ludzie nazywaja 'Zarzadem Firmy'. Sklada 
+ sie z wicedyrektorow i ksiegowych. Wydaje liczne oswiadczenia, 
+ z ktorych kazdy mowi 'Zgodnie z zarzadzeniem' albo 'W terminie do'
+ i nikt nie wie o co chodzi. Co roku nowe nazwiska pojawiaja
+ sie na galeziach i zadnego z tego pozytku. Jak taka nienaturalna
+ rzecz moze istniec?"
+
+ Mistrz odpowiedzial: "Obserwujesz ta wspaniala strukture i jestes
+ oburzony, ze nie ma z niej zadnego pozytku. Czy nie mozesz
+ rozkoszowac sie jej nie konczacymi sie zawirowaniami? Czy nie
+ podoba ci sie swoboda programowania pod oslona jej galezi?
+ Czemu obchodzi cie jej bezuzytecznosc?"
+
+                                  7.2
+
+ Tam gdzie wschodzi slonce drzemie rekin wiekszy od najwiekszej ryby. 
+ Czasem budzi sie i zamienia w ptaka o skrzydlach zaslaniajacych 
+ niebo. Gdy leci nad kraina, przynosi wiadomosc od Zarzadu Firmy. 
+ Wiadomosc spada pomiedzy programistow niczym mewa, ktora upatrzyla
+ zdobycz. Wowczas ptak zbiera wiatr i, odslaniajac niebo za soba, wraca 
+ do gniazda.
+
+ Programista-nowicjusz gapi sie na ptaka, bo nie rozumie zjawiska.
+ Sredni programista drzy przed jego nadejsciem, bo boi sie
+ wiadomisci. Mistrz programista siedzi przy swoim terminalu
+ i nawet nie wie, ze ptak sie pojawil i zniknal.
+
+                                  7.3
+
+ Mag z Wiezy Ivory przyniosl mistrzowi programiscie swoj najnowszy
+ wynalazek. Wtoczyl do biura programisty duze czarne pudlo, 
+ podczas gdy mistrz czekal w milczeniu.
+
+ "To jest zintegrowana, rozproszona stacja robocza ogolnego
+ przeznaczenia, zaprojektowana ergonomicznie, z firmowym
+ systemem operacyjnym, jezykami szostej generacji i wieloma
+ najwyzszej klasy interfejsami. Moi asystenci potrzebowali kilkaset
+ roboczolat na jej skonstruowanie. Czy to nie zdumiewajace?"
+ powiedzial Mag. 
+
+ Mistrz programista podniosl nieco brwi. "Rzeczywiscie, zdumiewajace."
+
+ Mag ciagnal dalej: "Zarzad zadecydowal, ze wszyscy maja uzywac
+ tej stacji roboczej jako platformy dla nowych programow.
+ Czy Pan sie na to zgadza?"
+
+ "Oczywiscie!" odpowiedzial mistrz. "Chce ja natychmiast miec
+ przewieziona do centrum obliczeniowego!".
+
+ Mag wrocil do swojej wiezy wielce zadowolony.
+
+ Kilka dni pozniej programista-nowicjusz wszedl do pokoju mistrza
+ i zapytal: "Nie moge znalezc listingu mojego nowego programu.
+ Nie wie Pan przypadkiem, gdzie on moze byc?"
+
+ Mistrz na to: "Wiem. Wszystkie listingi sa wylozone na
+ platformie w centrum obliczeniowym".
+
+                                  7.4
+
+ Mistrz programista bez strachu przechodzi od programu do programu.
+ Zadna zmiana zarzadu go nie ruszy. Nie bedzie zwolniony, nawet
+ gdy projekt zostanie zaniechany. Dlaczego? On jest przepelniony Tao.
+
+
+
+             S p r z e t   i   O p r o g r a m o w a n i e
+                         K s i e g a   O s m a
+-----------------------------------------------------------------------
+                   Oto rzekl Mistrz Programista:     
+
+     "Bez wiatru trawa sie nie porusza. Bez oprogramowania
+     sprzet jest bezuzyteczny".
+-----------------------------------------------------------------------
+
+                                  8.1
+
+ Nowicjusz zapytal mistrza: "Zauwazylem, ze jedna firma komputerowa
+ jest o wiele wieksza od innych. Goruje nad konkurencja niczym
+ olbrzym posrod karlow. Kazdy z jej oddzialow moglby byc samodzielna
+ firma. Czemu tak jest?"
+
+ Mistrz odpowiedzial: "Czemu zadajesz takie glupie pytania? Ta
+ Firma jest duza, bo ma byc duza. Gdyby robila wylacznie sprzet,
+ nikt by go nie kupil. Gdyby robila tylko oprogramowanie, nikt
+ by go nie uzywal. Gdyby zajmowala sie utrzymaniem systemow, ludzie
+ traktowaliby ja jak sluzacego. Ale poniewaz ona laczy te trzy
+ rzeczy, ludzie mysla, ze jest jednym z bogow! Nie muszac walczyc
+ o przezycie, zwycieza bez wysilku".
+
+                                  8.2
+
+ Pewnego dnia mistrz programista przechodzil obok biurka nowicjusza
+ i zauwazyl na nim reczna gre komputerowa. "Przepraszam," powiedzial,
+ "czy moge to obejrzec?" 
+
+ Zaskoczony nowicjusz stanal niemal na bacznosc i dal gre mistrzowi.
+ Ten powiedzial: "To urzadzenie zdaje sie miec trzy poziomy gry:
+ latwy, sredni i trudny. Ale kazde takie urzadzenie ma tez czwarty
+ poziom, w ktorym nie probuje pokonac czlowieka ani nie zamierza
+ byc pokonane przez niego".
+
+ Nowicjusz zaczal blagac: "Mistrzu, jak znalezc ten tajemniczy
+ poziom?"
+
+ Mistrz rzucil urzadzenie na ziemie i rozgniotl je noga.
+ A uczen zostal nagle oswiecony.
+
+                                  8.3
+
+ Byl sobie raz programista pracujacy przy mikroprocesorach. "Patrz jak
+ mi tu dobrze," rzekl, gdy wpadl do niego na chwile kolega pracujacy
+ przy mainframe'ach, "mam tu wlasny system operacyjny i pamiec masowa.
+ Nie musze z nikim dzielic swoich zasobow. Oprogramowanie jest zwarte
+ i latwe w uzyciu. Czemu nie rzucisz tej swojej roboty i nie przylaczysz
+ sie do mnie?"
+
+ Wtedy kolega zaczal opisywac swojego mainframe jako starozytnego 
+ medrca pograzonego w medytacji na srodku centrum obliczeniowego.
+ "Jego dyski rozposcieraja sie od konca do konca niczym ocean.
+ Oprogramowanie jak diament ma wiele twarzy, zwarte i posplatane niczym 
+ dziewicza dzungla. Programy, kazdy unikalny, przeplywaja rwacym
+ potokiem przez system. To wszystko sprawia, ze czuje sie tam
+ szczesliwy."
+
+ Pierwszy programista zamilkl po tej mowie. Ale obaj programisci
+ pozostali przyjaciolmi do konca swoich dni. 
+
+                                  8.4
+
+ Sprzet spotkal Oprogramowanie na drodze do Changtse.
+ Oprogramowanie rzeklo: "Ty jestes Jin, a ja jestem Jang. Jezeli
+ pojdziemy razem, staniemy sie slawni i zarobimy mase pieniedzy."
+ I poszli oboje dalej omawiajac plany zdobycia swiata.
+
+ Nagle spotkali Firmware, w postrzepionych lachach, kulejace, podpierajace 
+ sie sekata laska. Powiedzialo im ono: "Tao lezy pomiedzy Jin a Jang.
+ Jest ciche i nieruchome niczym staw w lesie. Nie szuka slawy,
+ zatem nikt nie wie o jego istnieniu. Nie poszukuje fortuny,
+ gdyz jest kompletne samo w sobie. Istnieje poza czasem i przestrzenia."
+
+ Zawstydzone, sprzet i oprogramowanie, zawrocily do swych domow.
+
+
+
+                                  E p i l o g 
+                          K s i e g a   D z i e w i a t a
+-----------------------------------------------------------------------
+                         Oto rzekl Mistrz Programista:
+
+                          "Teraz pora, bys odszedl."
+-----------------------------------------------------------------------
+
+                                  - koniec -
+
+
