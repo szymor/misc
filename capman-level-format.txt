@@ -36,7 +36,7 @@ CAPMAN LEVEL FORMAT (612 bytes):
 			bonus point 3
 			bonus point 4
 		player and bonus point positions should not contain X or Y coordinate equal 0 - it causes that such a player or bonus is invisible, the player cannot play and the bonus cannot be caught, this bug (or feature) could be used to make a level for a certain number of players or to set up fewer bonus points
-	3 bytes - amount of bugs - overall amount of bugs MUST NOT be greater than 24 - otherwise the game will crash, probably somewhere in the game code there is a static array with 24 bug objects (or sth similar)
+	3 bytes - amount of bugs - overall amount of bugs MUST NOT be greater than 24 - otherwise the game will crash, probably somewhere in the game code there is a statically allocated array with 24 bug objects (or sth similar)
 		first byte - amount of red bugs
 		second byte - amount of yellow bugs
 		third byte - amount of blue bugs
